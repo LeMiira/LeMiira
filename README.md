@@ -38,4 +38,4 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 ## Support
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](#)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](https://buymeacoffee.com/miiiira)
