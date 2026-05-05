@@ -1,57 +1,41 @@
 # Hi, I'm Mira
 Welcome to my little corner of the internet.
 
-## [ About Me ]
-I’m Mira, a redhead builder obsessed with clarity, systems, and meaningful digital experiences.
+## About Me
+I’m Mira, a redhead builder who cares about clarity, systems, and meaningful digital experiences.
 
 I turn ideas into interfaces, thoughts into tools, and chaos into something usable.
 
-- I build products that people actually use, not just look at  
+- I build things people actually use  
 - Stack: Vue, Tailwind, and whatever gets the job done cleanly  
-- UX matters to me more than trends  
+- I care about UX that feels right, not just looks good  
 - I design mental systems like Time Reservoir and Energy Bowls  
 
-## [ Projects ]
+## Projects
 
-[ temsool ]     https://temsool.com
-> digital identity / experimental interfaces
+[![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
+[![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
+[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
+[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
+[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://miiiira.com/candle-music)
 
-[ zaban ]       https://zaban.com.tr
-> real-life turkish phrasebook
+## What I’m Into
+- Building small but sharp digital products  
+- Experimental UI and interaction ideas  
+- Turning abstract concepts into usable tools  
+- Observing behavior patterns  
 
-[ kueer ]       https://kueer.org
-> identity / expression platform
+## Fun Side
+- My dreams are cinematic and numbered  
+- I usually understand animals better than people  
+- I do most things on my own  
+- I notice small details others miss  
 
-[ miiiira ]     https://miiiira.com
-> personal lab / raw ideas
+## Links
 
-[ candle-music ] https://miiiira.com/candle-music
-> market data → sound experiment
+[![GitHub](https://img.shields.io/badge/GitHub-LeMiira-111111?style=for-the-badge&logo=github)](https://github.com/LeMiira)
+[![Website](https://img.shields.io/badge/Website-temsool-111111?style=for-the-badge)](https://temsool.com)
 
-[ more ]
-> always building, rarely announcing
+## Support
 
-## [ What I’m Into ]
-
-> small, sharp digital products  
-> experimental UI and interaction  
-> abstract ideas → usable systems  
-> behavior patterns, human or not  
-
-## [ Fun Side ]
-
-> cinematic dreams, numbered  
-> animals > people (usually)  
-> solo by default  
-> I notice everything  
-
-## [ Links ]
-
-[ github ]   https://github.com/LeMiira  
-[ website ]  https://temsool.com  
-
-## [ Support ]
-
-If you like what I build:
-
-[ buy me a coffee ]
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](#)
