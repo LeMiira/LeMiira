@@ -1,7 +1,7 @@
-# Hi, I'm Mira 👋
+# Hi, I'm Mira
 Welcome to my little corner of the internet.
 
-## 🧡 About Me
+## [ About Me ]
 I’m Mira, a redhead builder obsessed with clarity, systems, and meaningful digital experiences.
 
 I turn ideas into interfaces, thoughts into tools, and chaos into something usable.
@@ -9,41 +9,49 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 - I build products that people actually use, not just look at  
 - Stack: Vue, Tailwind, and whatever gets the job done cleanly  
 - UX matters to me more than trends  
-- I design mental systems like **Time Reservoir** and **Energy Bowls**
+- I design mental systems like Time Reservoir and Energy Bowls  
 
-## 🚀 Projects
-- https://temsool.com  
-  Digital identity and experimental interface work
+## [ Projects ]
 
-- https://zaban.com.tr  
-  Turkish phrasebook focused on real-life usage and natural expressions
+[ temsool ]     https://temsool.com
+> digital identity / experimental interfaces
 
-- https://kueer.org  
-  Community driven platform around identity and expression
+[ zaban ]       https://zaban.com.tr
+> real-life turkish phrasebook
 
-- https://miiiira.com  
-  Personal space, experiments, and raw ideas
+[ kueer ]       https://kueer.org
+> identity / expression platform
 
-- https://miiiira.com/candle-music  
-  A playful experiment where market candles turn into sound
+[ miiiira ]     https://miiiira.com
+> personal lab / raw ideas
 
-- More experiments always evolving behind the scenes
+[ candle-music ] https://miiiira.com/candle-music
+> market data → sound experiment
 
-## ⚙️ What I’m Into
-- Building small but sharp digital products  
-- Experimental UI and interaction ideas  
-- Turning abstract concepts into usable tools  
-- Behavior patterns, human or not  
+[ more ]
+> always building, rarely announcing
 
-## 🌌 Fun Side
-- My dreams are cinematic, weird, and numbered 🎬  
-- Animals over people, most of the time  
-- Independent by default, I do things solo  
-- I notice everything, even what people try to hide  
+## [ What I’m Into ]
 
-## 🔗 Links
-- GitHub: https://github.com/LeMiira  
-- Website: https://temsool.com  
+> small, sharp digital products  
+> experimental UI and interaction  
+> abstract ideas → usable systems  
+> behavior patterns, human or not  
 
-## ☕ Support
-If you like what I build, you can fuel me with a coffee
+## [ Fun Side ]
+
+> cinematic dreams, numbered  
+> animals > people (usually)  
+> solo by default  
+> I notice everything  
+
+## [ Links ]
+
+[ github ]   https://github.com/LeMiira  
+[ website ]  https://temsool.com  
+
+## [ Support ]
+
+If you like what I build:
+
+[ buy me a coffee ]
