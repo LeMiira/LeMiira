@@ -17,8 +17,8 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 [![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
 [![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
 [![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
-[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://miiiira.com/candle-music)
-[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://miiiira.com/micoffee/)
+[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle-music)
+[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)
 
 ## What I’m Into
 - Building small but sharp digital products  
