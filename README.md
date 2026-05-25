@@ -59,8 +59,7 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
 
-[![El_Doviz](https://img.shields.io/badge/El_Doviz-turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
-
+[![El_Doviz](https://img.shields.io/badge/El_Doviz-turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)<br>
 [![GForm_Spam_Slayer](https://img.shields.io/badge/GForm_Spam_Slayer-spam_entry_cleaner-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/GForm-Spam-Slayer)
 
 <hr>
@@ -69,7 +68,7 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 
 <hr>
 
-[![temsool](https://img.shields.io/badge/temsool-portfolio-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
+[![temsool](https://img.shields.io/badge/temsool-portfolio-111111?style=for-the-badge&logoColor=white)](https://temsool.com)<br>
 [![ThemeForest](https://img.shields.io/badge/ThemeForest-LeMiira-111111?style=for-the-badge&logo=envato&logoColor=white)](https://themeforest.net/user/lemira/portfolio?direction=desc&order_by=sortable_at&view=grid)
 
 ---
