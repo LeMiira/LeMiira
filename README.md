@@ -19,16 +19,15 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 [![miiiira](https://img.shields.io/badge/miiiira-digital_playground-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://miiiira.com)
 [![kueer](https://img.shields.io/badge/kueer-community_platform-111111?style=for-the-badge&logo=matrix&logoColor=white)](https://kueer.org)
-[![temsool](https://img.shields.io/badge/temsool-creative_systems-111111?style=for-the-badge&logo=cloudflare&logoColor=white)](https://temsool.com)
-[![zaban](https://img.shields.io/badge/zaban-language_tools-111111?style=for-the-badge&logo=googletranslate&logoColor=white)](https://zaban.com.tr)
+[![zaban](https://img.shields.io/badge/zaban-Turkish_learning-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
 
 <br>
 
 ![Vue](https://img.shields.io/badge/vue-friendly-111111?style=flat-square&logo=vuedotjs&logoColor=42b883)
 ![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![UX](https://img.shields.io/badge/ux-feel_first-111111?style=flat-square)
+
 ![Indie](https://img.shields.io/badge/indie-built-111111?style=flat-square)
-![Night_Owl](https://img.shields.io/badge/night_owl-coded-111111?style=flat-square)
+
 
 ---
 
@@ -42,7 +41,7 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 ![Freebies](https://img.shields.io/badge/freebies-made_with_love-111111?style=flat-square)
 ![Experimental](https://img.shields.io/badge/experimental-side_projects-111111?style=flat-square)
 ![Minimal](https://img.shields.io/badge/minimal-no_bloat-111111?style=flat-square)
-![Late_Night](https://img.shields.io/badge/late_night-ideas-111111?style=flat-square)
+
 
 ---
 
@@ -56,7 +55,7 @@ Some of the tools, plugins, systems, and interfaces I build across WordPress, ex
 
 I also used to publish themes and templates on ThemeForest back in the day.  
 Some of them are old now, but they’re still part of the journey and a nostalgic snapshot of where I started building for the web.
-
+[![temsool](https://img.shields.io/badge/temsool-portfolio-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
 [![ThemeForest](https://img.shields.io/badge/ThemeForest-LeMiira-111111?style=for-the-badge&logo=envato&logoColor=white)](https://themeforest.net/user/lemira/portfolio?direction=desc&order_by=sortable_at&view=grid)
 
 ---
