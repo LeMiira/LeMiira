@@ -16,14 +16,15 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 ---
 
 ## Projects
-
+[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
+[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
 [![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
 [![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
-[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
+
 
 <br>
 
-[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
+## Freebies
 [![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle)
 [![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)
 
@@ -34,7 +35,6 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
 
 [![El_Doviz](https://img.shields.io/badge/El_Doviz-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
-[![GitHub_Projects](https://img.shields.io/badge/GitHub_Projects-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeMiira)
 
 <br>
 
@@ -61,9 +61,7 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 - My dreams are cinematic and numbered  
 - I usually understand animals better than people  
 - I do most things on my own  
-- I notice small details others miss  
-- I like systems more than noise  
-- I care about atmosphere as much as functionality  
+
 
 ---
 
@@ -81,13 +79,3 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 [![Buy_me_a_coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](https://buymeacoffee.com/miiiira)
 
 ---
-
-## Philosophy
-
-I like building things that feel human.
-
-Not bloated.  
-Not noisy.  
-Not artificially complicated.
-
-Just thoughtful tools, clear systems, and experiences that feel good to use.
