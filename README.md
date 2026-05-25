@@ -23,11 +23,6 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 <br>
 
-![Vue](https://img.shields.io/badge/vue-friendly-111111?style=flat-square&logo=vuedotjs&logoColor=42b883)<br>
-![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=38bdf8)<br>
-
-![Indie](https://img.shields.io/badge/indie-built-111111?style=flat-square)
-
 
 ---
 
@@ -77,6 +72,35 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 - I usually understand animals better than people  
 - I do most things on my own  
 
+![Linux](https://img.shields.io/badge/linux-daily_driver-111111?style=flat-square&logo=linux&logoColor=fcc624)<br>
+![WordPress](https://img.shields.io/badge/wordpress-plugin_builder-111111?style=flat-square&logo=wordpress&logoColor=21759b)<br>
+![Accessibility](https://img.shields.io/badge/a11y-care_enjoyer-111111?style=flat-square)<br>
+![Minimalism](https://img.shields.io/badge/minimal-clean_systems-111111?style=flat-square)<br>
+![Architecture](https://img.shields.io/badge/system-design_thinker-111111?style=flat-square)<br>
+![Performance](https://img.shields.io/badge/performance-no_bloat-111111?style=flat-square)<br>
+![Dreams](https://img.shields.io/badge/dreams-cinematic-111111?style=flat-square)<br>
+![Animals](https://img.shields.io/badge/animals-understood-111111?style=flat-square)<br>
+![Redhead](https://img.shields.io/badge/redhead-builder-111111?style=flat-square)<br>
+![Coffee](https://img.shields.io/badge/coffee-powered-111111?style=flat-square&logo=buymeacoffee&logoColor=ffdd00)<br>
+![Metal](https://img.shields.io/badge/metal-listener-111111?style=flat-square)<br>
+![Night](https://img.shields.io/badge/night-productive-111111?style=flat-square)<br>
+![UX](https://img.shields.io/badge/ux-feel_first-111111?style=flat-square)<br>
+![Interfaces](https://img.shields.io/badge/interfaces-human_focused-111111?style=flat-square)<br>
+![Automation](https://img.shields.io/badge/automation-life_simplifier-111111?style=flat-square)<br>
+![Privacy](https://img.shields.io/badge/privacy-respecting-111111?style=flat-square)<br>
+![Indie](https://img.shields.io/badge/indie-mostly_solo-111111?style=flat-square)<br>
+![Chaos](https://img.shields.io/badge/chaos-organized-111111?style=flat-square)<br>
+![Cats](https://img.shields.io/badge/cat-approved-111111?style=flat-square)<br>
+![Dogs](https://img.shields.io/badge/dog-protected-111111?style=flat-square)<br>
+![Details](https://img.shields.io/badge/details-noticed-111111?style=flat-square)<br>
+![Builder](https://img.shields.io/badge/builder-mentality-111111?style=flat-square)<br>
+![Experiments](https://img.shields.io/badge/experimental-ui-111111?style=flat-square)<br>
+![OpenSource](https://img.shields.io/badge/open_source-friendly-111111?style=flat-square&logo=github)<br>
+![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=38bdf8)<br>
+![Vue](https://img.shields.io/badge/vue-friendly-111111?style=flat-square&logo=vuedotjs&logoColor=42b883)<br>
+![SelfHosted](https://img.shields.io/badge/self_hosted-enjoyer-111111?style=flat-square)<br>
+![Focus](https://img.shields.io/badge/focus-deep_work-111111?style=flat-square)<br>
+![Systems](https://img.shields.io/badge/systems-over_noise-111111?style=flat-square)<br>
 
 ---
 
