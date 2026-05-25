@@ -62,9 +62,9 @@ Some of the tools, plugins, systems, and interfaces I build across WordPress, ex
 [![El_Doviz](https://img.shields.io/badge/El_Doviz-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
 
 <br>
-
 I also used to publish themes and templates on ThemeForest back in the day.  
 Some of them are old now, but they’re still part of the journey and a nostalgic snapshot of where I started building for the web.
+<br>
 [![temsool](https://img.shields.io/badge/temsool-portfolio-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
 [![ThemeForest](https://img.shields.io/badge/ThemeForest-LeMiira-111111?style=for-the-badge&logo=envato&logoColor=white)](https://themeforest.net/user/lemira/portfolio?direction=desc&order_by=sortable_at&view=grid)
 
