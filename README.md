@@ -1,55 +1,60 @@
-# Mira
+# Hi, I'm Mira
 
-> interfaces, systems, experiments
+Welcome to my little corner of the internet.
 
-I build digital things that try to feel right.
+## About Me
+
+I’m Mira, a redhead builder who cares about clarity, systems, and meaningful digital experiences.
+
+I turn ideas into interfaces, thoughts into tools, and chaos into something usable.
+
+- I build things people actually use  
+- Stack: Vue, Tailwind, and whatever gets the job done cleanly  
+- I care about UX that feels right, not just looks good  
+- I design mental systems like Time Reservoir and Energy Bowls  
 
 ---
 
 ## Projects
 
-[![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)  
-digital ecosystem, tools, experiments
+[![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
+[![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
+[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
 
 <br>
 
-[![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)  
-language learning platform
-
-<br>
-
-[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)  
-queer community platform
-
-<br>
-
-[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)  
-personal lab for strange ideas
-
-<br>
-
-[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle)  
-ambient music experience
-
-<br>
-
-[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)  
-tiny coffee themed experiment
+[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
+[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle)
+[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)
 
 ---
 
-## Things I Care About
+## What I’m Into
 
-- interfaces with personality  
-- interaction design that feels natural  
-- systems that reduce chaos  
-- building independently  
-- tiny details people subconsciously notice  
+- Building small but sharp digital products  
+- Experimental UI and interaction ideas  
+- Turning abstract concepts into usable tools  
+- Observing behavior patterns  
 
 ---
 
-## Elsewhere
+## Fun Side
+
+- My dreams are cinematic and numbered  
+- I usually understand animals better than people  
+- I do most things on my own  
+- I notice small details others miss  
+
+---
+
+## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeMiira-111111?style=for-the-badge&logo=github)](https://github.com/LeMiira)
+[![Website](https://img.shields.io/badge/Website-temsool-111111?style=for-the-badge)](https://temsool.com)
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-111111?style=for-the-badge)](https://github.com/sponsors/LeMiira)
+---
+
+## Support
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-111111?style=for-the-badge&logo=github)](https://github.com/sponsors/LeMiira)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](https://buymeacoffee.com/miiiira)
