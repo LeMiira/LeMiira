@@ -61,6 +61,8 @@ Some of the tools, plugins, systems, and interfaces I build across WordPress, ex
 
 [![El_Doviz](https://img.shields.io/badge/El_Doviz-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
 
+[![GForm_Spam_Slayer](https://img.shields.io/badge/GForm_Spam_Slayer-bot_destroyer-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/GForm-Spam-Slayer)
+
 <hr>
 I also used to publish themes and templates on ThemeForest back in the day.  
 Some of them are old now, but they’re still part of the journey and a nostalgic snapshot of where I started building for the web.
