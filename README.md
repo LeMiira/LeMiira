@@ -1,72 +1,55 @@
-# Hi, I'm Mira
+# Mira
 
-Welcome to my little corner of the internet.
+> interfaces, systems, experiments
 
-I build interfaces, systems, and weird little digital experiments focused on clarity, usability, and feeling.
-
----
-
-## About Me
-
-- Frontend-focused builder from Türkiye  
-- Mostly working with Vue, Tailwind, PWAs, and custom systems  
-- I care about UX that feels intuitive, not just pretty  
-- Interested in behavior patterns, interaction design, and experimental product ideas  
-- Turning abstract concepts into usable tools is my favorite thing  
+I build digital things that try to feel right.
 
 ---
 
-# Projects
+## Projects
 
-### [Temsool](https://temsool.com)
-A growing digital ecosystem focused on apps, tools, and experimental products.
+[![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)  
+digital ecosystem, tools, experiments
 
-### [Zaban](https://zaban.com.tr)
-Language-focused platform and educational project.
+<br>
 
-### [Kueer](https://kueer.org)
-Queer-focused platform and community project.
+[![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)  
+language learning platform
 
-### [Miiiira](https://miiiira.com)
-Personal playground for experiments, ideas, and digital concepts.
+<br>
 
-### [Candle Music](https://play.miiiira.com/candle)
-Minimal ambient music experience designed around mood and atmosphere.
+[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)  
+queer community platform
 
-### [MiCoffee](https://play.miiiira.com/micoffee/)
-Tiny coffee-themed experimental web app.
+<br>
 
----
+[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)  
+personal lab for strange ideas
 
-## Things I Like Building
+<br>
 
-- Small but sharp digital products  
-- Experimental UI ideas  
-- PWAs that feel native  
-- Systems for organizing thought and energy  
-- Interfaces with personality  
+[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle)  
+ambient music experience
 
----
+<br>
 
-## Fun Side
-
-- My dreams are cinematic and numbered  
-- I usually understand animals better than people  
-- I notice details others miss  
-- Most of my projects start from random midnight ideas  
+[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)  
+tiny coffee themed experiment
 
 ---
 
-## Links
+## Things I Care About
 
-- GitHub: https://github.com/LeMiira
-- Website: https://temsool.com
+- interfaces with personality  
+- interaction design that feels natural  
+- systems that reduce chaos  
+- building independently  
+- tiny details people subconsciously notice  
 
 ---
 
-## Support
+## Elsewhere
 
-If you enjoy my work or want to support independent projects:
+[![GitHub](https://img.shields.io/badge/GitHub-LeMiira-111111?style=for-the-badge&logo=github)](https://github.com/LeMiira)
 
-- https://github.com/sponsors/LeMiira
-- https://buymeacoffee.com/miiiira
+[![Sponsor](https://img.shields.io/badge/Sponsor-111111?style=for-the-badge)](https://github.com/sponsors/LeMiira)
