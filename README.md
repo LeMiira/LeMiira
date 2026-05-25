@@ -17,14 +17,14 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 ## Projects
 
-[![miiiira](https://img.shields.io/badge/miiiira-digital_playground-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://miiiira.com)
-[![kueer](https://img.shields.io/badge/kueer-community_platform-111111?style=for-the-badge&logo=matrix&logoColor=white)](https://kueer.org)
-[![zaban](https://img.shields.io/badge/zaban-Turkish_learning-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
+[![miiiira](https://img.shields.io/badge/miiiira-digital_playground-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://miiiira.com)<br>
+[![kueer](https://img.shields.io/badge/kueer-community_platform-111111?style=for-the-badge&logo=matrix&logoColor=white)](https://kueer.org) <br>
+[![zaban](https://img.shields.io/badge/zaban-Turkish_learning-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)<br>
 
 <br>
 
-![Vue](https://img.shields.io/badge/vue-friendly-111111?style=flat-square&logo=vuedotjs&logoColor=42b883)
-![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Vue](https://img.shields.io/badge/vue-friendly-111111?style=flat-square&logo=vuedotjs&logoColor=42b883)<br>
+![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=38bdf8)<br>
 
 ![Indie](https://img.shields.io/badge/indie-built-111111?style=flat-square)
 
@@ -33,13 +33,13 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 ## Freebies
 
-[![candle_music](https://img.shields.io/badge/candle_music-focus_atmosphere-111111?style=for-the-badge&logo=youtubeMusic&logoColor=white)](https://play.miiiira.com/candle)
+[![candle_music](https://img.shields.io/badge/candle_music-focus_atmosphere-111111?style=for-the-badge&logo=youtubeMusic&logoColor=white)](https://play.miiiira.com/candle)<br>
 [![micoffee](https://img.shields.io/badge/micoffee-caffeine_simulator-111111?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://play.miiiira.com/micoffee/)
 
 <br>
 
-![Freebies](https://img.shields.io/badge/freebies-made_with_love-111111?style=flat-square)
-![Experimental](https://img.shields.io/badge/experimental-side_projects-111111?style=flat-square)
+![Freebies](https://img.shields.io/badge/freebies-made_with_love-111111?style=flat-square)<br>
+![Experimental](https://img.shields.io/badge/experimental-side_projects-111111?style=flat-square)<br>
 ![Minimal](https://img.shields.io/badge/minimal-no_bloat-111111?style=flat-square)
 
 
