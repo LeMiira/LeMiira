@@ -1,42 +1,72 @@
 # Hi, I'm Mira
+
 Welcome to my little corner of the internet.
 
+I build interfaces, systems, and weird little digital experiments focused on clarity, usability, and feeling.
+
+---
+
 ## About Me
-I’m Mira, a redhead builder who cares about clarity, systems, and meaningful digital experiences.
 
-I turn ideas into interfaces, thoughts into tools, and chaos into something usable.
+- Frontend-focused builder from Türkiye  
+- Mostly working with Vue, Tailwind, PWAs, and custom systems  
+- I care about UX that feels intuitive, not just pretty  
+- Interested in behavior patterns, interaction design, and experimental product ideas  
+- Turning abstract concepts into usable tools is my favorite thing  
 
-- I build things people actually use  
-- Stack: Vue, Tailwind, and whatever gets the job done cleanly  
-- I care about UX that feels right, not just looks good  
-- I design mental systems like Time Reservoir and Energy Bowls  
+---
 
-## Projects
+# Projects
 
-[![temsool](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=white)](https://temsool.com)
-[![zaban](https://img.shields.io/badge/zaban-111111?style=for-the-badge&logoColor=white)](https://zaban.com.tr)
-[![kueer](https://img.shields.io/badge/kueer-111111?style=for-the-badge&logoColor=white)](https://kueer.org)
-[![miiiira](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=white)](https://miiiira.com)
-[![candle_music](https://img.shields.io/badge/candle_music-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/candle)
-[![micoffee](https://img.shields.io/badge/micoffee-111111?style=for-the-badge&logoColor=white)](https://play.miiiira.com/micoffee/)
+### [Temsool](https://temsool.com)
+A growing digital ecosystem focused on apps, tools, and experimental products.
 
-## What I’m Into
-- Building small but sharp digital products  
-- Experimental UI and interaction ideas  
-- Turning abstract concepts into usable tools  
-- Observing behavior patterns  
+### [Zaban](https://zaban.com.tr)
+Language-focused platform and educational project.
+
+### [Kueer](https://kueer.org)
+Queer-focused platform and community project.
+
+### [Miiiira](https://miiiira.com)
+Personal playground for experiments, ideas, and digital concepts.
+
+### [Candle Music](https://play.miiiira.com/candle)
+Minimal ambient music experience designed around mood and atmosphere.
+
+### [MiCoffee](https://play.miiiira.com/micoffee/)
+Tiny coffee-themed experimental web app.
+
+---
+
+## Things I Like Building
+
+- Small but sharp digital products  
+- Experimental UI ideas  
+- PWAs that feel native  
+- Systems for organizing thought and energy  
+- Interfaces with personality  
+
+---
 
 ## Fun Side
+
 - My dreams are cinematic and numbered  
 - I usually understand animals better than people  
-- I do most things on my own  
-- I notice small details others miss  
+- I notice details others miss  
+- Most of my projects start from random midnight ideas  
+
+---
 
 ## Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-LeMiira-111111?style=for-the-badge&logo=github)](https://github.com/LeMiira)
-[![Website](https://img.shields.io/badge/Website-temsool-111111?style=for-the-badge)](https://temsool.com)
+- GitHub: https://github.com/LeMiira
+- Website: https://temsool.com
+
+---
 
 ## Support
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-111111?style=for-the-badge)](https://buymeacoffee.com/miiiira)
+If you enjoy my work or want to support independent projects:
+
+- https://github.com/sponsors/LeMiira
+- https://buymeacoffee.com/miiiira
