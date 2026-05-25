@@ -59,9 +59,9 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
 
-[![El_Doviz](https://img.shields.io/badge/El_Doviz-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
+[![El_Doviz](https://img.shields.io/badge/El_Doviz-turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/el-doviz)
 
-[![GForm_Spam_Slayer](https://img.shields.io/badge/GForm_Spam_Slayer-bot_destroyer-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/GForm-Spam-Slayer)
+[![GForm_Spam_Slayer](https://img.shields.io/badge/GForm_Spam_Slayer-spam_entry_cleaner-111111?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/LeMiira/GForm-Spam-Slayer)
 
 <hr>
 I also used to publish themes and templates on ThemeForest back in the day.  
