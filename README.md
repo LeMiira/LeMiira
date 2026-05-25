@@ -1,6 +1,6 @@
 # Hi, I'm Mira
 
-Welcome to my little corner of the internet.
+Welcome to my little corner of the internet.<br>
 ![Vue](https://img.shields.io/badge/vue-friendly-42b883?style=flat-square&logo=vuedotjs&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/tailwind-clean_ui-38bdf8?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/linux-daily_driver-fcc624?style=flat-square&logo=linux&logoColor=111111)
@@ -12,22 +12,16 @@ Welcome to my little corner of the internet.
 ![Sun](https://img.shields.io/badge/sun-lover-facc15?style=flat-square&logoColor=111111)
 ![UX](https://img.shields.io/badge/ux-feel_first-0f766e?style=flat-square&logoColor=ffffff)
 ![Interfaces](https://img.shields.io/badge/interfaces-human_focused-0891b2?style=flat-square&logoColor=ffffff)
-![Accessibility](https://img.shields.io/badge/a11y-care_enjoyer-16a34a?style=flat-square&logoColor=ffffff)
-![Minimalism](https://img.shields.io/badge/minimal-clean_systems-525252?style=flat-square&logoColor=ffffff)
-![Performance](https://img.shields.io/badge/performance-no_bloat-d97706?style=flat-square&logoColor=ffffff)
-![Automation](https://img.shields.io/badge/automation-life_simplifier-2563eb?style=flat-square&logoColor=ffffff)
 ![Privacy](https://img.shields.io/badge/privacy-respecting-059669?style=flat-square&logoColor=ffffff)
 ![Indie](https://img.shields.io/badge/indie-mostly_solo-db2777?style=flat-square&logoColor=ffffff)
 ![Chaos](https://img.shields.io/badge/chaos-organized-7c2d12?style=flat-square&logoColor=ffffff)
 ![Cats](https://img.shields.io/badge/cat-approved-a16207?style=flat-square&logoColor=ffffff)
 ![Dogs](https://img.shields.io/badge/dog-protected-92400e?style=flat-square&logoColor=ffffff)
-![Details](https://img.shields.io/badge/details-noticed-4338ca?style=flat-square&logoColor=ffffff)
 ![Builder](https://img.shields.io/badge/builder-mentality-0f172a?style=flat-square&logoColor=ffffff)
 ![Experiments](https://img.shields.io/badge/experimental-ui-be185d?style=flat-square&logoColor=ffffff)
 ![OpenSource](https://img.shields.io/badge/open_source-friendly-24292f?style=flat-square&logo=github&logoColor=ffffff)
 ![SelfHosted](https://img.shields.io/badge/self_hosted-enjoyer-0369a1?style=flat-square&logoColor=ffffff)
-![Focus](https://img.shields.io/badge/focus-deep_work-15803d?style=flat-square&logoColor=ffffff)
-![Systems](https://img.shields.io/badge/systems-over_noise-334155?style=flat-square&logoColor=ffffff)
+
 
 ## About Me
 
