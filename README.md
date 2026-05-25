@@ -51,11 +51,6 @@ I turn ideas into interfaces, thoughts into tools, and chaos into something usab
 [![candle_music](https://img.shields.io/badge/candle_music-focus_atmosphere-111111?style=for-the-badge&logo=youtubeMusic&logoColor=white)](https://play.miiiira.com/candle)<br>
 [![micoffee](https://img.shields.io/badge/micoffee-caffeine_simulator-111111?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://play.miiiira.com/micoffee/)
 
-<br>
-
-![Freebies](https://img.shields.io/badge/freebies-made_with_love-111111?style=flat-square)<br>
-![Experimental](https://img.shields.io/badge/experimental-side_projects-111111?style=flat-square)<br>
-![Minimal](https://img.shields.io/badge/minimal-no_bloat-111111?style=flat-square)
 
 
 ---
