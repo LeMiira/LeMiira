@@ -52,8 +52,8 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
 
-[![LeDoviz](https://img.shields.io/badge/turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=LeDoviz&labelColor=CC3333)](https://github.com/LeMiira/el-doviz)<br>
-[![GForm_Spam_Slayer](https://img.shields.io/badge/spam_entry_cleaner-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=GForm_Spam_Slayer&labelColor=CC3333)](https://github.com/LeMiira/GForm-Spam-Slayer)
+[![Le Doviz](https://img.shields.io/badge/turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=Le Doviz&labelColor=CC3333)](https://github.com/LeMiira/LeDoviz)<br>
+[![GForm Spam Slayer](https://img.shields.io/badge/spam_entry_cleaner-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=GForm_Spam_Slayer&labelColor=CC3333)](https://github.com/LeMiira/GForm-Spam-Slayer)
 
 <hr>
 
