@@ -2,26 +2,26 @@
 
 Welcome to my little corner of the internet.<br><br>
 
-![Vue](https://img.shields.io/badge/friendly-f2f2f2?style=flat-square&logo=vuedotjs&logoColor=f2f2f2&label=vue&labelColor=A93D21)
-![Tailwind](https://img.shields.io/badge/clean_ui-f2f2f2?style=flat-square&logo=tailwindcss&logoColor=f2f2f2&label=tailwind&labelColor=A93D21)
-![Linux](https://img.shields.io/badge/daily_driver-f2f2f2?style=flat-square&logo=linux&logoColor=f2f2f2&label=linux&labelColor=A93D21)
-![WordPress](https://img.shields.io/badge/plugin_builder-f2f2f2?style=flat-square&logo=wordpress&logoColor=f2f2f2&label=wordpress&labelColor=A93D21)
-![Dreams](https://img.shields.io/badge/cinematic-f2f2f2?style=flat-square&logoColor=f2f2f2&label=dreams&labelColor=A93D21)
-![Redhead](https://img.shields.io/badge/builder-f2f2f2?style=flat-square&logoColor=f2f2f2&label=redhead&labelColor=A93D21)
-![Coffee](https://img.shields.io/badge/powered-f2f2f2?style=flat-square&logo=buymeacoffee&logoColor=f2f2f2&label=coffee&labelColor=A93D21)
-![Metal](https://img.shields.io/badge/listener-f2f2f2?style=flat-square&logoColor=f2f2f2&label=metal&labelColor=A93D21)
-![Sun](https://img.shields.io/badge/lover-f2f2f2?style=flat-square&logoColor=f2f2f2&label=sun&labelColor=A93D21)
-![UX](https://img.shields.io/badge/feel_first-f2f2f2?style=flat-square&logoColor=f2f2f2&label=ux&labelColor=A93D21)
-![Interfaces](https://img.shields.io/badge/human_focused-f2f2f2?style=flat-square&logoColor=f2f2f2&label=interfaces&labelColor=A93D21)
-![Privacy](https://img.shields.io/badge/respecting-f2f2f2?style=flat-square&logoColor=f2f2f2&label=privacy&labelColor=A93D21)
-![Indie](https://img.shields.io/badge/mostly_solo-f2f2f2?style=flat-square&logoColor=f2f2f2&label=indie&labelColor=A93D21)
-![Chaos](https://img.shields.io/badge/organized-f2f2f2?style=flat-square&logoColor=f2f2f2&label=chaos&labelColor=A93D21)
-![Cats](https://img.shields.io/badge/approved-f2f2f2?style=flat-square&logoColor=f2f2f2&label=cat&labelColor=A93D21)
-![Dogs](https://img.shields.io/badge/protected-f2f2f2?style=flat-square&logoColor=f2f2f2&label=dog&labelColor=A93D21)
-![Builder](https://img.shields.io/badge/mentality-f2f2f2?style=flat-square&logoColor=f2f2f2&label=builder&labelColor=A93D21)
-![Experiments](https://img.shields.io/badge/ui-f2f2f2?style=flat-square&logoColor=f2f2f2&label=experimental&labelColor=A93D21)
-![OpenSource](https://img.shields.io/badge/friendly-f2f2f2?style=flat-square&logo=github&logoColor=f2f2f2&label=open_source&labelColor=A93D21)
-![SelfHosted](https://img.shields.io/badge/enjoyer-f2f2f2?style=flat-square&logoColor=f2f2f2&label=self_hosted&labelColor=A93D21)
+![Vue](https://img.shields.io/badge/friendly-111111?style=flat-square&logo=vuedotjs&logoColor=111111&label=vue&labelColor=#CC3333)
+![Tailwind](https://img.shields.io/badge/clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=111111&label=tailwind&labelColor=#CC3333)
+![Linux](https://img.shields.io/badge/daily_driver-111111?style=flat-square&logo=linux&logoColor=111111&label=linux&labelColor=#CC3333)
+![WordPress](https://img.shields.io/badge/plugin_builder-111111?style=flat-square&logo=wordpress&logoColor=111111&label=wordpress&labelColor=#CC3333)
+![Dreams](https://img.shields.io/badge/cinematic-111111?style=flat-square&logoColor=111111&label=dreams&labelColor=#CC3333)
+![Redhead](https://img.shields.io/badge/builder-111111?style=flat-square&logoColor=111111&label=redhead&labelColor=#CC3333)
+![Coffee](https://img.shields.io/badge/powered-111111?style=flat-square&logo=buymeacoffee&logoColor=111111&label=coffee&labelColor=#CC3333)
+![Metal](https://img.shields.io/badge/listener-111111?style=flat-square&logoColor=111111&label=metal&labelColor=#CC3333)
+![Sun](https://img.shields.io/badge/lover-111111?style=flat-square&logoColor=111111&label=sun&labelColor=#CC3333)
+![UX](https://img.shields.io/badge/feel_first-111111?style=flat-square&logoColor=111111&label=ux&labelColor=#CC3333)
+![Interfaces](https://img.shields.io/badge/human_focused-111111?style=flat-square&logoColor=111111&label=interfaces&labelColor=#CC3333)
+![Privacy](https://img.shields.io/badge/respecting-111111?style=flat-square&logoColor=111111&label=privacy&labelColor=#CC3333)
+![Indie](https://img.shields.io/badge/mostly_solo-111111?style=flat-square&logoColor=111111&label=indie&labelColor=#CC3333)
+![Chaos](https://img.shields.io/badge/organized-111111?style=flat-square&logoColor=111111&label=chaos&labelColor=#CC3333)
+![Cats](https://img.shields.io/badge/approved-111111?style=flat-square&logoColor=111111&label=cat&labelColor=#CC3333)
+![Dogs](https://img.shields.io/badge/protected-111111?style=flat-square&logoColor=111111&label=dog&labelColor=#CC3333)
+![Builder](https://img.shields.io/badge/mentality-111111?style=flat-square&logoColor=111111&label=builder&labelColor=#CC3333)
+![Experiments](https://img.shields.io/badge/ui-111111?style=flat-square&logoColor=111111&label=experimental&labelColor=#CC3333)
+![OpenSource](https://img.shields.io/badge/friendly-111111?style=flat-square&logo=github&logoColor=111111&label=open_source&labelColor=#CC3333)
+![SelfHosted](https://img.shields.io/badge/enjoyer-111111?style=flat-square&logoColor=111111&label=self_hosted&labelColor=#CC3333)
 
 ## About Me
 I'm Mira
@@ -33,9 +33,9 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 
 ## Projects
 
-[![miiiira](https://img.shields.io/badge/digital_playground-f2f2f2?style=for-the-badge&logo=vercel&logoColor=f2f2f2&label=miiiira&labelColor=A93D21)](https://miiiira.com)<br>
-[![kueer](https://img.shields.io/badge/community_platform-f2f2f2?style=for-the-badge&logo=matrix&logoColor=f2f2f2&label=kueer&labelColor=A93D21)](https://kueer.org)<br>
-[![zaban](https://img.shields.io/badge/Turkish_learning-f2f2f2?style=for-the-badge&logoColor=f2f2f2&label=zaban&labelColor=A93D21)](https://zaban.com.tr)
+[![miiiira](https://img.shields.io/badge/digital_playground-111111?style=for-the-badge&logo=vercel&logoColor=111111&label=miiiira&labelColor=#CC3333)](https://miiiira.com)<br>
+[![kueer](https://img.shields.io/badge/community_platform-111111?style=for-the-badge&logo=matrix&logoColor=111111&label=kueer&labelColor=#CC3333)](https://kueer.org)<br>
+[![zaban](https://img.shields.io/badge/Turkish_learning-111111?style=for-the-badge&logoColor=111111&label=zaban&labelColor=#CC3333)](https://zaban.com.tr)
 
 <br>
 
@@ -43,8 +43,8 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 
 ## Freebies
 
-[![candle_music](https://img.shields.io/badge/focus_atmosphere-f2f2f2?style=for-the-badge&logo=youtubeMusic&logoColor=f2f2f2&label=candle_music&labelColor=A93D21)](https://play.miiiira.com/candle)<br>
-[![micoffee](https://img.shields.io/badge/caffeine_simulator-f2f2f2?style=for-the-badge&logo=buymeacoffee&logoColor=f2f2f2&label=micoffee&labelColor=A93D21)](https://play.miiiira.com/micoffee/)
+[![candle_music](https://img.shields.io/badge/focus_atmosphere-111111?style=for-the-badge&logo=youtubeMusic&logoColor=111111&label=candle_music&labelColor=#CC3333)](https://play.miiiira.com/candle)<br>
+[![micoffee](https://img.shields.io/badge/caffeine_simulator-111111?style=for-the-badge&logo=buymeacoffee&logoColor=111111&label=micoffee&labelColor=#CC3333)](https://play.miiiira.com/micoffee/)
 
 ---
 
@@ -52,8 +52,8 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
 
-[![El_Doviz](https://img.shields.io/badge/turkish_exchange_display-f2f2f2?style=for-the-badge&logo=wordpress&logoColor=f2f2f2&label=El_Doviz&labelColor=A93D21)](https://github.com/LeMiira/el-doviz)<br>
-[![GForm_Spam_Slayer](https://img.shields.io/badge/spam_entry_cleaner-f2f2f2?style=for-the-badge&logo=wordpress&logoColor=f2f2f2&label=GForm_Spam_Slayer&labelColor=A93D21)](https://github.com/LeMiira/GForm-Spam-Slayer)
+[![El_Doviz](https://img.shields.io/badge/turkish_exchange_display-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=El_Doviz&labelColor=#CC3333)](https://github.com/LeMiira/el-doviz)<br>
+[![GForm_Spam_Slayer](https://img.shields.io/badge/spam_entry_cleaner-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=GForm_Spam_Slayer&labelColor=#CC3333)](https://github.com/LeMiira/GForm-Spam-Slayer)
 
 <hr>
 
@@ -62,8 +62,8 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 
 <hr>
 
-[![temsool](https://img.shields.io/badge/portfolio-f2f2f2?style=for-the-badge&logoColor=f2f2f2&label=temsool&labelColor=A93D21)](https://temsool.com)<br>
-[![ThemeForest](https://img.shields.io/badge/LeMiira-f2f2f2?style=for-the-badge&logo=envato&logoColor=f2f2f2&label=ThemeForest&labelColor=A93D21)](https://themeforest.net/user/lemira/portfolio?direction=desc&order_by=sortable_at&view=grid)
+[![temsool](https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logoColor=111111&label=temsool&labelColor=#CC3333)](https://temsool.com)<br>
+[![ThemeForest](https://img.shields.io/badge/LeMiira-111111?style=for-the-badge&logo=envato&logoColor=111111&label=ThemeForest&labelColor=#CC3333)](https://themeforest.net/user/lemira/portfolio?direction=desc&order_by=sortable_at&view=grid)
 
 ---
 
@@ -88,15 +88,15 @@ Some of them are old now, but they’re still part of the journey and a nostalgi
 
 ## Links
 
-[![GitHub](https://img.shields.io/badge/LeMiira-f2f2f2?style=for-the-badge&logo=github&logoColor=f2f2f2&label=GitHub&labelColor=A93D21)](https://github.com/LeMiira)
-[![Website](https://img.shields.io/badge/temsool-f2f2f2?style=for-the-badge&logoColor=f2f2f2&label=Website&labelColor=A93D21)](https://temsool.com)
-[![Portfolio](https://img.shields.io/badge/miiiira-f2f2f2?style=for-the-badge&logoColor=f2f2f2&label=Portfolio&labelColor=A93D21)](https://miiiira.com)
+[![GitHub](https://img.shields.io/badge/LeMiira-111111?style=for-the-badge&logo=github&logoColor=111111&label=GitHub&labelColor=#CC3333)](https://github.com/LeMiira)
+[![Website](https://img.shields.io/badge/temsool-111111?style=for-the-badge&logoColor=111111&label=Website&labelColor=#CC3333)](https://temsool.com)
+[![Portfolio](https://img.shields.io/badge/miiiira-111111?style=for-the-badge&logoColor=111111&label=Portfolio&labelColor=#CC3333)](https://miiiira.com)
 
 ---
 
 ## Support
 
-[![GitHub Sponsors](https://img.shields.io/badge/support_my_work-f2f2f2?style=for-the-badge&logo=github&logoColor=f2f2f2&label=GitHub_Sponsors&labelColor=A93D21)](https://github.com/sponsors/LeMiira)
-[![Buy_me_a_coffee](https://img.shields.io/badge/fuel_the_chaos-f2f2f2?style=for-the-badge&logoColor=f2f2f2&label=Buy_me_a_coffee&labelColor=A93D21)](https://buymeacoffee.com/miiiira)
+[![GitHub Sponsors](https://img.shields.io/badge/support_my_work-111111?style=for-the-badge&logo=github&logoColor=111111&label=GitHub_Sponsors&labelColor=#CC3333)](https://github.com/sponsors/LeMiira)
+[![Buy_me_a_coffee](https://img.shields.io/badge/fuel_the_chaos-111111?style=for-the-badge&logoColor=111111&label=Buy_me_a_coffee&labelColor=#CC3333)](https://buymeacoffee.com/miiiira)
 
 ---
