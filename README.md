@@ -45,6 +45,7 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 
 [![candle_music](https://img.shields.io/badge/focus_atmosphere-111111?style=for-the-badge&logo=youtubeMusic&logoColor=111111&label=candle_music&labelColor=CC3333)](https://github.com/LeMiira/candle-music)<br>
 [![micoffee](https://img.shields.io/badge/caffeine_simulator-111111?style=for-the-badge&logo=buymeacoffee&logoColor=111111&label=micoffee&labelColor=CC3333)](https://github.com/LeMiira/micoffee)
+[![worktimer_app](https://img.shields.io/badge/time_tracking_client-111111?style=for-the-badge&logo=electron&logoColor=111111&label=worktimer_app&labelColor=CC3333)](https://github.com/LeMiira/worktimer-app)
 
 ---
 
