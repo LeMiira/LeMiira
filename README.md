@@ -2,24 +2,24 @@
 
 Welcome to my little corner of the internet.<br><br>
 [![WordPress Profile](https://img.shields.io/badge/WordPress.org-Miiira-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/miiira/)
-![Vue](https://img.shields.io/badge/friendly-111111?style=flat-square&logo=vuedotjs&logoColor=111111&label=vue&labelColor=CC3333)
 
-![Linux](https://img.shields.io/badge/daily_driver-111111?style=flat-square&logo=linux&logoColor=111111&label=linux&labelColor=CC3333)
-![WordPress](https://img.shields.io/badge/plugin_builder-111111?style=flat-square&logo=wordpress&logoColor=111111&label=wordpress&labelColor=CC3333)
-![Dreams](https://img.shields.io/badge/cinematic-111111?style=flat-square&logoColor=111111&label=dreams&labelColor=CC3333)
-![Redhead](https://img.shields.io/badge/builder-111111?style=flat-square&logoColor=111111&label=redhead&labelColor=CC3333)
-![Coffee](https://img.shields.io/badge/powered-111111?style=flat-square&logo=buymeacoffee&logoColor=111111&label=coffee&labelColor=CC3333)
-![Metal](https://img.shields.io/badge/listener-111111?style=flat-square&logoColor=111111&label=metal&labelColor=CC3333)
-![Sun](https://img.shields.io/badge/lover-111111?style=flat-square&logoColor=111111&label=sun&labelColor=CC3333)
+![Vue](https://img.shields.io/badge/Vue-Friendly-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-Plugin%20Builder-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-![Indie](https://img.shields.io/badge/mostly_solo-111111?style=flat-square&logoColor=111111&label=indie&labelColor=CC3333)
+![Coffee](https://img.shields.io/badge/Coffee-Powered-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)
+![Metal](https://img.shields.io/badge/Metal-Listener-8B0000?style=for-the-badge)
+![Sun](https://img.shields.io/badge/Sun-Lover-FF9800?style=for-the-badge)
 
-![Cats](https://img.shields.io/badge/approved-111111?style=flat-square&logoColor=111111&label=cat&labelColor=CC3333)
-![Dogs](https://img.shields.io/badge/protected-111111?style=flat-square&logoColor=111111&label=dog&labelColor=CC3333)
-![Builder](https://img.shields.io/badge/mentality-111111?style=flat-square&logoColor=111111&label=builder&labelColor=CC3333)
-![Experiments](https://img.shields.io/badge/ui-111111?style=flat-square&logoColor=111111&label=experimental&labelColor=CC3333)
-![OpenSource](https://img.shields.io/badge/friendly-111111?style=flat-square&logo=github&logoColor=111111&label=open_source&labelColor=CC3333)
-![SelfHosted](https://img.shields.io/badge/enjoyer-111111?style=flat-square&logoColor=111111&label=self_hosted&labelColor=CC3333)
+![Indie](https://img.shields.io/badge/Indie-Mostly%20Solo-6A5ACD?style=for-the-badge)
+![Builder](https://img.shields.io/badge/Builder-Mentality-CC3333?style=for-the-badge)
+
+![Cat](https://img.shields.io/badge/Cat-Approved-795548?style=for-the-badge)
+![Dog](https://img.shields.io/badge/Dog-Protected-4CAF50?style=for-the-badge)
+
+![Experimental](https://img.shields.io/badge/UI-Experimental-9C27B0?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Friendly-181717?style=for-the-badge&logo=github&logoColor=white)
+![Self Hosted](https://img.shields.io/badge/Self%20Hosted-Enjoyer-607D8B?style=for-the-badge)
 
 ## About Me
 I'm Mira
