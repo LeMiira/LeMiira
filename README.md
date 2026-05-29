@@ -2,19 +2,14 @@
 
 Welcome to my little corner of the internet.<br><br>
 [![WordPress Profile](https://img.shields.io/badge/plugin_builder-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=wordpress&labelColor=CC3333)](https://profiles.wordpress.org/miiira/)<br>
-
 ![Vue](https://img.shields.io/badge/friendly-111111?style=for-the-badge&logo=vuedotjs&logoColor=111111&label=vue&labelColor=CC3333)<br>
 ![Linux](https://img.shields.io/badge/daily_driver-111111?style=for-the-badge&logo=linux&logoColor=111111&label=linux&labelColor=CC3333)<br>
-![WordPress](https://img.shields.io/badge/plugin_builder-111111?style=for-the-badge&logo=wordpress&logoColor=111111&label=wordpress&labelColor=CC3333)<br>
-
 ![Dreams](https://img.shields.io/badge/cinematic-111111?style=for-the-badge&label=dreams&labelColor=CC3333)<br>
 ![Redhead](https://img.shields.io/badge/builder-111111?style=for-the-badge&label=redhead&labelColor=CC3333)<br>
 ![Coffee](https://img.shields.io/badge/powered-111111?style=for-the-badge&logo=buymeacoffee&logoColor=111111&label=coffee&labelColor=CC3333)<br>
 ![Metal](https://img.shields.io/badge/listener-111111?style=for-the-badge&label=metal&labelColor=CC3333)<br>
 ![Sun](https://img.shields.io/badge/lover-111111?style=for-the-badge&label=sun&labelColor=CC3333)<br>
-
 ![Indie](https://img.shields.io/badge/mostly_solo-111111?style=for-the-badge&label=indie&labelColor=CC3333)<br>
-
 ![Cat](https://img.shields.io/badge/approved-111111?style=for-the-badge&label=cat&labelColor=CC3333)<br>
 ![Dog](https://img.shields.io/badge/protected-111111?style=for-the-badge&label=dog&labelColor=CC3333)<br>
 ![Builder](https://img.shields.io/badge/mentality-111111?style=for-the-badge&label=builder&labelColor=CC3333)<br>
