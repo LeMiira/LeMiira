@@ -1,9 +1,9 @@
 # Hi, I'm Mira
 
 Welcome to my little corner of the internet.<br><br>
-
+[![WordPress Profile](https://img.shields.io/badge/WordPress.org-Miiira-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/miiira/)
 ![Vue](https://img.shields.io/badge/friendly-111111?style=flat-square&logo=vuedotjs&logoColor=111111&label=vue&labelColor=CC3333)
-![Tailwind](https://img.shields.io/badge/clean_ui-111111?style=flat-square&logo=tailwindcss&logoColor=111111&label=tailwind&labelColor=CC3333)
+
 ![Linux](https://img.shields.io/badge/daily_driver-111111?style=flat-square&logo=linux&logoColor=111111&label=linux&labelColor=CC3333)
 ![WordPress](https://img.shields.io/badge/plugin_builder-111111?style=flat-square&logo=wordpress&logoColor=111111&label=wordpress&labelColor=CC3333)
 ![Dreams](https://img.shields.io/badge/cinematic-111111?style=flat-square&logoColor=111111&label=dreams&labelColor=CC3333)
@@ -11,11 +11,9 @@ Welcome to my little corner of the internet.<br><br>
 ![Coffee](https://img.shields.io/badge/powered-111111?style=flat-square&logo=buymeacoffee&logoColor=111111&label=coffee&labelColor=CC3333)
 ![Metal](https://img.shields.io/badge/listener-111111?style=flat-square&logoColor=111111&label=metal&labelColor=CC3333)
 ![Sun](https://img.shields.io/badge/lover-111111?style=flat-square&logoColor=111111&label=sun&labelColor=CC3333)
-![UX](https://img.shields.io/badge/feel_first-111111?style=flat-square&logoColor=111111&label=ux&labelColor=CC3333)
-![Interfaces](https://img.shields.io/badge/human_focused-111111?style=flat-square&logoColor=111111&label=interfaces&labelColor=CC3333)
-![Privacy](https://img.shields.io/badge/respecting-111111?style=flat-square&logoColor=111111&label=privacy&labelColor=CC3333)
+
 ![Indie](https://img.shields.io/badge/mostly_solo-111111?style=flat-square&logoColor=111111&label=indie&labelColor=CC3333)
-![Chaos](https://img.shields.io/badge/organized-111111?style=flat-square&logoColor=111111&label=chaos&labelColor=CC3333)
+
 ![Cats](https://img.shields.io/badge/approved-111111?style=flat-square&logoColor=111111&label=cat&labelColor=CC3333)
 ![Dogs](https://img.shields.io/badge/protected-111111?style=flat-square&logoColor=111111&label=dog&labelColor=CC3333)
 ![Builder](https://img.shields.io/badge/mentality-111111?style=flat-square&logoColor=111111&label=builder&labelColor=CC3333)
