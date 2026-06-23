@@ -44,12 +44,13 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 ---
 
 ## Plugins & Digital Experiments
-
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
-[![WP](https://img.shields.io/badge/Mira-LLM-Optimizer-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/mira-llm-optimizer/)<br>
-[![WP](https://img.shields.io/badge/WP-ledoviz--turkish--exchange--rates-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/ledoviz-turkish-exchange-rates/)<br>
-[![WP](https://img.shields.io/badge/WP-spam--slayer--for--gravity--forms-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/spam-slayer-for-gravity-forms/)<br>
 
+[![WordPress Plugin](https://img.shields.io/badge/WordPress-Mira%20LLM%20Optimizer-111111?style=for-the-badge&logo=wordpress&logoColor=ffffff&labelColor=CC3333)](https://wordpress.org/plugins/mira-llm-optimizer/)<br>
+
+[![WordPress Plugin](https://img.shields.io/badge/WordPress-Ledoviz%20Turkish%20Exchange%20Rates-111111?style=for-the-badge&logo=wordpress&logoColor=ffffff&labelColor=CC3333)](https://wordpress.org/plugins/ledoviz-turkish-exchange-rates/)<br>
+
+[![WordPress Plugin](https://img.shields.io/badge/WordPress-Spam%20Slayer%20for%20Gravity%20Forms-111111?style=for-the-badge&logo=wordpress&logoColor=ffffff&labelColor=CC3333)](https://wordpress.org/plugins/spam-slayer-for-gravity-forms/)<br>
 <hr>
 
 I also used to publish themes and templates on ThemeForest back in the day.  
