@@ -46,8 +46,7 @@ This is my digital lab, where web experiments meet psychology, AI, interfaces, s
 ## Plugins & Digital Experiments
 
 Some of the tools, plugins, systems, and interfaces I build across WordPress, experimental web platforms, and independent projects.
-
-[![Le_Doviz](https://img.shields.io/badge/turkish_exchange_display-111111?style=for-the-badge&logo=github&logoColor=111111&label=Le_Doviz&labelColor=CC3333)](https://github.com/LeMiira/Le-Doviz)
+[![WP](https://img.shields.io/badge/Mira-LLM-Optimizer-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/mira-llm-optimizer/)<br>
 [![WP](https://img.shields.io/badge/WP-ledoviz--turkish--exchange--rates-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/ledoviz-turkish-exchange-rates/)<br>
 [![WP](https://img.shields.io/badge/WP-spam--slayer--for--gravity--forms-111111?style=for-the-badge&logo=wordpress&logoColor=111111&labelColor=CC3333)](https://wordpress.org/plugins/spam-slayer-for-gravity-forms/)<br>
 
